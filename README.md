@@ -13,7 +13,8 @@
 ### ctfの練習サイト
 - [CpawCTF](https://ctf.cpaw.site/)
 - [CELTF](https://play.celtf.com/#/)
-- []()
+- [flAWS](http://flaws.cloud/)
+- [cryptohack.org](https://cryptohack.org/challenges/introduction/)
 ### 昨年度の感想
 	昨年度はセキュリティに対する面白そうという興味だけで,何もわからないままctfの過去問を解きました。
 	過去問対策でcpawを活用したのですが,分からなすぎて,多少,理不尽と思いながらも頑張って食いつきました。
