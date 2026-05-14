@@ -10,6 +10,10 @@
 - [ctfの入門](https://qiita.com/s-mori/items/300765d8b2a89bcf5461)
 - [ctf体験談](https://www.skyseaclientview.net/media/article/4813/)
 
+### ctfの練習サイト
+- [CpawCTF](https://ctf.cpaw.site/)
+- [CELTF](https://play.celtf.com/#/)
+- []()
 ### 昨年度の感想
 	昨年度はセキュリティに対する面白そうという興味だけで,何もわからないままctfの過去問を解きました。
 	過去問対策でcpawを活用したのですが,分からなすぎて,多少,理不尽と思いながらも頑張って食いつきました。
