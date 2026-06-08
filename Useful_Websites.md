@@ -30,3 +30,7 @@
 ### program
 ### Web
 ### Misc
+
+### 参考文献
+[文字集合](https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E9%9B%86%E5%90%88)
+[チートシート](https://neerajlovecyber.com/ctf-cheatsheet)
