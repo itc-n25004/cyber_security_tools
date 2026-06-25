@@ -15,6 +15,7 @@ sudo systemctl status inetd
 ```sh
 sudo vi /etc/inetd.conf
 ```
+- 以下の内容に変更(コメントされているのを外す　無ければ追記)
 ![telnet_config](image/telnet_config)
 3. 設定を読み込む
 ```sh

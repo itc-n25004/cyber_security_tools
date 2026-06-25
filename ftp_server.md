@@ -52,5 +52,5 @@ sudo systemctl status ufw
 sudo systemctl restart vsftpd
 ```
 
-- 接続の確認
+- 接続の確認<br>
 ![conect_ftp](image/conect_ftp.png)
