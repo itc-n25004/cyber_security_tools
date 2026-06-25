@@ -24,5 +24,5 @@ sudo systemctl restart inetd
 ```sh
  sudo systemctl status inetd
 ```
-[telnet_result.png](image/telnet_result.png)<br>
+![telnet_result.png](image/telnet_result.png)<br>
 - errorがなければ完成
