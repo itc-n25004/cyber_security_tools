@@ -1,4 +1,4 @@
-### apache2サーバーの立ち上げ
+### apache2サーバー(basic認証)の立ち上げ
 1. apacheサーバーのインストール
 ```sh
 sudo apt install apache2
