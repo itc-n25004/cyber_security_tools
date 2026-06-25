@@ -27,5 +27,16 @@ sudo vim /etc/apache2/apache2.conf
 ```
 - 以下の内容を追記
 ```txt
+    AuthType Basic
+    AuthName "Basic Authentication"
+    AuthUserFile /etc/apache2/.htpasswd
+    require valid-user
+```
+![apach2_conf](./image/apach2_conf)
 
+4. user登録
+> [今回はtestユーザで作成するよ]
+> htpasswd -c \[filepath] [user]
+```sh
+sudo htpasswd -c /etc/apache2/.passwd test
 ```
