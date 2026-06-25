@@ -11,7 +11,7 @@ sudo systemctl start apache2
 ```sh
 sudo systemctl status apache2
 ```
-![apache_status](/home/n25004/Pictures/Screenshots/Screenshot From 2026-06-25 15-44-01.png)
+![apache_status](~/Pictures/Screenshots/Screenshot From 2026-06-25 15-44-01.png)
 2. htmlの作成(defaultもあるが分かりづらい)
 ```sh
 sudo vi /var/www/html/index.html
