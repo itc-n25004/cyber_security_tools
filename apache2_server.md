@@ -43,7 +43,7 @@ sudo vi /var/www/html/index.html
 ```
 
 - 完成
-[result](image/result)
+![result](image/result)
 
 > errorが出た時<br>
 > less /var/log/apache2/error.log の中身を見てみよう<br>
