@@ -32,10 +32,10 @@ sudo vim /etc/apache2/apache2.conf
     AuthUserFile /etc/apache2/.htpasswd
     require valid-user
 ```
-![apach2_conf](./image/apach2_conf)
+![apach2_conf](image/apach2_conf)
 
 4. user登録
-> [今回はtestユーザで作成するよ]
+> [今回はtestユーザで作成するよ]<br>
 > htpasswd -c \[filepath] [user]
 ```sh
 sudo htpasswd -c /etc/apache2/.passwd test
