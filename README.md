@@ -32,6 +32,9 @@
 - 時間が残っているのであれば,一つの手法だけでなく複数の手法での解き方を教わりたいです。
 
 ### 課題
-- [apache2_server.md](apache2_server.md)
-- [ftp_server.md](ftp_server.md)
-- [telnet.md](telnet.md)
+##### ctf
+![ctf_image](image/cpaw_assigments.png)
+##### インストールマニュアル
+-[o] [apache2_server.md](apache2_server.md)
+-[o] [ftp_server.md](ftp_server.md)
+-[o] [telnet.md](telnet.md)
