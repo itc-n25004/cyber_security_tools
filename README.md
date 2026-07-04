@@ -31,10 +31,4 @@
 - 大会は出来ることを知っていることが重要だと思うので、容赦なく勧めてほしい。
 - 時間が残っているのであれば,一つの手法だけでなく複数の手法での解き方を教わりたいです。
 
-### 課題
-##### ctf
-![ctf_image](image/cpaw_assigments.png)
-##### インストールマニュアル
-- [apache2_server.md](apache2_server.md)
-- [ftp_server.md](ftp_server.md)
-- [telnet.md](telnet.md)
+
