@@ -54,3 +54,12 @@ sl = [str(n) for n in bigl]
 print(''.join(sl))
 ```
 ---
+### Q23.[Reversing]またやらかした！
+- file を確認
+```sh
+file rev200
+```
+- 何の実行ファイルか目安をつける
+```sh
+strings rev200
+```
