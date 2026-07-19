@@ -55,6 +55,7 @@ print(''.join(sl))
 ```
 <br>
 ---
+<br>
 ### Q23.[Reversing]またやらかした！
 - file を確認
 ```sh
