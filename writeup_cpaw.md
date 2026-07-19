@@ -8,7 +8,6 @@ cpaw{this_is_Cpaw_CTF}
 ### Q6.[Crypto] Classical Cipher
 シーザー暗号とはアルファベットをずらすという暗号なのでcpawという文字がでてくるまでずらします。
 
->[!info] 注意
 > sedでは略記できない
 - 文字列を置換する
 ```sh
