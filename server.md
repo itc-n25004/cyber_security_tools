@@ -1,1 +1,0 @@
-- [telnet](https://www.infra-linux.com/linux-cmd-menu1/telnet-install/)
