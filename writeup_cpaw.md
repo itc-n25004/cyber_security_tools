@@ -53,9 +53,6 @@ bigl = sorted(l,revese=True)
 sl = [str(n) for n in bigl]
 print(''.join(sl))
 ```
-<br>
----
-<br>
 ### Q23.[Reversing]またやらかした！
 - file を確認
 ```sh
