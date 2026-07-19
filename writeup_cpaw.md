@@ -40,7 +40,7 @@ mv open_me open_me.docx
 - serverが落とされてるので出来ない
 
 ### Q10.[Forensics] River
-- 下記サイトでexif情報を確認
+- 下記サイトでexif情報を確認<br>
 [exif確認君](http://exif-check.org/)
 
 ### Q14.[PPC]並べ替えろ!
@@ -53,4 +53,4 @@ bigl = sorted(l,revese=True)
 sl = [str(n) for n in bigl]
 print(''.join(sl))
 ```
-
+---
